@@ -4,5 +4,3 @@ AIM:To work with UI Controls in Android. (Create a login form using Linear Layou
 
 ![](./ss1.png) 
 ![](./ss2.png)
-![](./ss3.png) 
-![](./ss4.png)
